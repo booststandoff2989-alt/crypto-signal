@@ -1,0 +1,6 @@
+{
+  "name": "PulseSignal AI — Доступ к Telegram-боту",
+  "description": "Стильный одностраничный лендинг для продажи доступа к интеллектуальному Telegram-боту торговых сигналов и аналитики рынка.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
